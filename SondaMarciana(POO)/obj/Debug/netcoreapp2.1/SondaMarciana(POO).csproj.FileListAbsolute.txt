@@ -1,0 +1,11 @@
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\bin\Debug\netcoreapp2.1\SondaMarciana(POO).deps.json
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\bin\Debug\netcoreapp2.1\SondaMarciana(POO).runtimeconfig.json
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\bin\Debug\netcoreapp2.1\SondaMarciana(POO).runtimeconfig.dev.json
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\bin\Debug\netcoreapp2.1\SondaMarciana(POO).dll
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\bin\Debug\netcoreapp2.1\SondaMarciana(POO).pdb
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\obj\Debug\netcoreapp2.1\SondaMarciana(POO).csprojAssemblyReference.cache
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\obj\Debug\netcoreapp2.1\SondaMarciana(POO).csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\obj\Debug\netcoreapp2.1\SondaMarciana(POO).AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\obj\Debug\netcoreapp2.1\SondaMarciana(POO).AssemblyInfo.cs
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\obj\Debug\netcoreapp2.1\SondaMarciana(POO).dll
+C:\Users\Cliente\source\repos\SondaMarciana(POO)\SondaMarciana(POO)\obj\Debug\netcoreapp2.1\SondaMarciana(POO).pdb
